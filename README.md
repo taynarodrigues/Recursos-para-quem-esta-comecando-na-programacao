@@ -195,13 +195,17 @@ AcervoHackerBR: https://t.me/ForkJavaScript)
 - 💹 **✔Git:** — (https://t.me/ForkGit)
 
 
+```bash
 ✅DEVHINTS.IO: git log cheatsheet
 ```
 - 💹 **✔Git:** — (https://devhints.io/git-log)
 
+
+```bash
 ✅Bóson Treinamentos: Curso de Shell Scripting - Programação no Linux
 ```
 - 💹 **✔Linux:** — (https://www.youtube.com/playlist?list=PLucm8g_ezqNrYgjXC8_CgbvHbvI7dDfhs)
+
 
 ```bash
 ✅Curso em vídeo: Curso de Banco de Dados MySQL
