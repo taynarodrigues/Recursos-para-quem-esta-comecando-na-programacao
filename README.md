@@ -196,6 +196,10 @@ AcervoHackerBR: https://t.me/ForkJavaScript)
 ```
 - 💹 **✔Git:** — (https://t.me/ForkGit)
 
+✅DEVHINTS.IO: git log cheatsheet
+```
+- 💹 **✔Git:** — (https://devhints.io/git-log)
+
 ```bash
 ✅Bóson Treinamentos: Curso de Shell Scripting - Programação no Linux
 ```
