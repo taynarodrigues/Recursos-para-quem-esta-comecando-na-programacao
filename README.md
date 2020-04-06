@@ -39,6 +39,7 @@
 - **Information Security**
 - **Inglês**
 - **Espanhol**
+- **Rápido, desenhe!**
 
 
 
@@ -307,6 +308,12 @@ Haskell BR: Implementando fibonacci em Haskell
 ✅Kultivi: Kultivi | Espanhol | Thais do Rosário
 ```
 - 💹 **✔Espanhol:** — (https://www.youtube.com/playlist?list=PL8vXuI6zmpdhL0QvzsaQ7VIHSyT9xkjvT)
+
+```bash
+✅Será que uma rede neural consegue aprender a reconhecer seus desenhos?
+Ajude a ensinar a rede adicionando seus desenhos ao maior conjunto de dados sobre desenhos do mundo (em inglês). Esses dados são compartilhados com o público para ajudar nas pesquisas sobre aprendizado de máquina.
+```
+- 💹 **✔withgoogle:** — (https://quickdraw.withgoogle.com/?locale=pt_BR)
 
 
 
