@@ -27,6 +27,7 @@
 - **Linux**
 - **Algorithms**
 - **Git**
+- **Git log cheatsheet**
 - **MySQL/SQL**
 - **MySQL**
 - **C**
@@ -40,8 +41,6 @@
 - **Inglês**
 - **Espanhol**
 - **Rápido, desenhe!**
-
-
 
 
 
@@ -82,7 +81,6 @@
 ✅loiane.training: Fundamentos Ext JS 4
 ```
 - 💹 **✔Fundamentos Ext JS 4:** — (https://loiane.training/curso/fundamentos-ext-js-4)
-
 
 
 ```bash
@@ -196,11 +194,11 @@ AcervoHackerBR: https://t.me/ForkJavaScript)
 ```
 - 💹 **✔Git:** — (https://t.me/ForkGit)
 
+
 ✅DEVHINTS.IO: git log cheatsheet
 ```
 - 💹 **✔Git:** — (https://devhints.io/git-log)
 
-```bash
 ✅Bóson Treinamentos: Curso de Shell Scripting - Programação no Linux
 ```
 - 💹 **✔Linux:** — (https://www.youtube.com/playlist?list=PLucm8g_ezqNrYgjXC8_CgbvHbvI7dDfhs)
@@ -219,7 +217,6 @@ AcervoHackerBR: https://t.me/ForkJavaScript)
 ✅Bóson Treinamentos: Curso de MySQL
 ```
 - 💹 **✔Curso de MySQLt:** — (https://www.youtube.com/playlist?list=PLucm8g_ezqNrWAQH2B_0AnrFY5dJcgOLR)
-
 
 
 #  📚Programação de baixo nível📚:
@@ -318,7 +315,6 @@ Haskell BR: Implementando fibonacci em Haskell
 Ajude a ensinar a rede adicionando seus desenhos ao maior conjunto de dados sobre desenhos do mundo (em inglês). Esses dados são compartilhados com o público para ajudar nas pesquisas sobre aprendizado de máquina.
 ```
 - 💹 **✔withgoogle:** — (https://quickdraw.withgoogle.com/?locale=pt_BR)
-
 
 
 ----------
