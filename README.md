@@ -19,6 +19,7 @@
 - **Fundamentos Ext JS 4**
 - **JavaScript**
 - **Curso de HTML**
+- **Curso Lógica de Programação**
 - **Curso de CSS3**
 - **Curso de python**
 - **CURSO DE PYTHON3**
@@ -31,6 +32,7 @@
 - **MySQL/SQL**
 - **MySQL**
 - **C**
+- **LISTAS DE EXERCÍCIOS em C**
 - **C++**
 - **Haskell**
 - **Rust**
@@ -41,6 +43,7 @@
 - **Inglês**
 - **Espanhol**
 - **Rápido, desenhe!**
+- **JORNADA DO DEV-CURSOS GRATUITOS**
 
 
 
@@ -296,6 +299,25 @@ Haskell BR: Implementando fibonacci em Haskell
 ```
 - 💹 **✔Information Security:** — (https://www.youtube.com/playlist?list=PLAwxTw4SYaPkG-z00NybuIyDqT4sRh3ak)
 
+```bash
+✅JORNADA DO DEV
+```
+- 💹 **✔JORNADAInglês:** — (https://goo.gl/3wqNXZ)
+
+```bash
+✅LISTAS DE EXERCÍCIOS-INTRODUÇÃO À COMPUTAÇÃO-Departamento de Ciência da Computação-IME-USP     2005
+```
+- 💹 **✔EXERCÍCIOS EM C:** — (https://www.ime.usp.br/~macmulti/exercicios/)
+
+- 💹 **✔EXERCÍCIOS EM C:** — (https://programacaodescomplicada.wordpress.com/complementar/)
+
+- 💹 **✔EXERCÍCIOS EM C:** — (https://oprofessorleandro.files.wordpress.com/2010/03/coletanea-de-exercicios-resolvidos-em-liguagem-c.pdf)
+
+- 💹 **✔EXERCÍCIOS EM C:** — (http://www.telecom.uff.br/~marcos/protocolos/www.cic.unb.br/docentes/jacobi/Extensao/ListaExerc.pdf)
+
+
+
+
 
 # 📚Cursos de idiomas📚:
 
@@ -319,6 +341,9 @@ Haskell BR: Implementando fibonacci em Haskell
 Ajude a ensinar a rede adicionando seus desenhos ao maior conjunto de dados sobre desenhos do mundo (em inglês). Esses dados são compartilhados com o público para ajudar nas pesquisas sobre aprendizado de máquina.
 ```
 - 💹 **✔withgoogle:** — (https://quickdraw.withgoogle.com/?locale=pt_BR)
+
+
+
 
 
 ----------
